@@ -24,5 +24,5 @@ Un cop executat:
 - Allà es podran veure totes les visualitzacions interactives
 
 **Nota important:**  
-El fitxer HTML que es troba penjat correspon a una versió *frozen* (estàtica) de l’aplicació.  
+El fitxer MHTML que es troba penjat correspon a una versió *frozen* (estàtica) de l’aplicació.  
 Aquesta versió **no és completa** i **algunes visualitzacions poden no mostrar-se correctament** a causa de les limitacions del renderitzat estàtic. Per accedir a totes les funcionalitats i visualitzacions interactives, cal executar l’aplicació amb Python.
